@@ -322,9 +322,9 @@ hr {
     background: #eedada; }
   .tile.tile-16 .tile-inner {
     background: #eedae4; }
-  .tile.tile-32 .tile-inner {
+  .tile.tile-0 .tile-inner {
     color: #f9f6f2;
-    background: #deb7cb; }
+    background: #767600; }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
     background: #cab7de; }
@@ -336,13 +336,13 @@ hr {
     @media screen and (max-width: 480px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
-  .tile.tile-256 .tile-inner {
-    color: #f9f6f2;
+  .tile.tile-201 .tile-inner {
+    color: #e70404;
     background: #a3cef2;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
     @media screen and (max-width: 480px) {
-      .tile.tile-256 .tile-inner {
+      .tile.tile-201 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
